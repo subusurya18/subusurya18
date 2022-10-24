@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weebzone&label=Profile%20views&color=0e75b6&style=flat" alt="weebzone" /> </p>
 
-- 🔭 I’m currently working on [WZML](https://github.com/subusurya18/WZML)
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **@msgsurya**
